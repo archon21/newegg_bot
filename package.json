@@ -1,0 +1,22 @@
+{
+  "name": "neweggbot",
+  "description": "Autonomously buy Products such as RTX 3080 from Newegg as soon as they become available",
+  "version": "1.0.0",
+  "main": "NeweggBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdonnieIV/NeweggBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArdonnieIV/NeweggBot/issues"
+  },
+  "homepage": "https://github.com/ArdonnieIV/NeweggBot#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
